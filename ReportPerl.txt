@@ -1,0 +1,16 @@
+[891357550@vclvm020903 Mon Nov 27 18:50:38 ~/891357550_WorkENV]m020903 Mon Nov 27 18:50:38 ~/891357550_WorkENV]$
+
+Perl Project
+
+For this project, I started by using a regex search to grab only the necessary
+lines, and placed the values of @ARGV into a string to place into a regex
+search, to allow for a filter. There, I use a counter to check for the first
+three lines (the headers) of the file. Once I had a line I needed, I would use
+                my @line_element = split(/\s{2,}/, $line);
+                my $bestLine = join ",", @line_element;
+these two commands in ode to split them from spaces, and connect them with
+commas to meet the CSV requirement.
+
+
+I did not manage to sort the lines in time for the due date.
+

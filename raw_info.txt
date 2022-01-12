@@ -1,0 +1,24 @@
+MYNETAPP01-NY
+700000123456
+Filesystem               total       used      avail capacity  Mounted on
+/vol/vfiler_PROD1_SF_NFS15K01/     1638GB      735GB      903GB      45%  /vol/vfiler_PROD1_SF_NFS15K01/
+/vol/vfiler_PROD1_SF_NFS15K01/.snapshot      409GB      105GB      303GB      26%  /vol/vfiler_PROD1_SF_NFS15K01/.snapshot
+/vol/vfiler_PROD1_SF_isci_15K01/     2048GB     1653GB      394GB      81%  /vol/vfiler_PROD1_SF_isci_15K01/
+snap reserve               0TB        0TB        0TB     ---%  /vol/vfiler_PROD1_SF_isci_15K01/..
+/vol/vfiler_PROD1_DR_NFS15K_cmsp2/     1228GB      851GB      377GB      69%  /vol/vfiler_PROD1_DR_NFS15K_cmsp2/
+snap reserve               0TB        0TB        0TB     ---%  /vol/vfiler_PROD1_DR_NFS15K_cmsp2/..
+/vol/root/               537GB       12GB      525GB       2%  /vol/root/
+/vol/root/.snapshot      134GB       10GB      123GB       8%  /vol/root/.snapshot
+/vol/vfiler_PROD1_SF_NFS7K01/     1638GB     1362GB      276GB      83%  /vol/vfiler_PROD1_SF_NFS7K01/
+snap reserve             409GB     3427MB      406GB       1%  /vol/vfiler_PROD1_SF_NFS7K01/..
+/vol/vfiler_PROD1_SF_root/     9216MB       10MB     9205MB       0%  /vol/vfiler_PROD1_SF_root/
+/vol/vfiler_PROD1_SF_root/.snapshot     1024MB     4216KB     1019MB       0%  /vol/vfiler_PROD1_SF_root/.snapshot
+/vol/vfiler_PROD1_SF_isci_7K01/     2560GB     2146GB      413GB      84%  /vol/vfiler_PROD1_SF_isci_7K01/
+snap reserve               0TB        0TB        0TB     ---%  /vol/vfiler_PROD1_SF_isci_7K01/..
+/vol/vfiler_PROD1_DR_NFS7K_cmsp1/      200GB      545MB      199GB       0%  /vol/vfiler_PROD1_DR_NFS7K_cmsp1/
+/vol/vfiler_PROD1_DR_NFS7K_cmsp1/.snapshot       50GB       80MB       49GB       0%  /vol/vfiler_PROD1_DR_NFS7K_cmsp1/.snapshot
+/vol/vfiler_PROD1_DR_Moodle_Ful_7K01/       10TB    10009GB      806GB      93%  /vol/vfiler_PROD1_DR_Moodle_Ful_7K01/
+snap reserve               0MB      385MB        0MB     ---%  /vol/vfiler_PROD1_DR_Moodle_Ful_7K01/..
+/vol/vfiler_PROD1_DR_Moodle_LA_7K01/     6144GB     4572GB     1571GB      74%  /vol/vfiler_PROD1_DR_Moodle_LA_7K01/
+snap reserve               0MB      219MB        0MB     ---%  /vol/vfiler_PROD1_DR_Moodle_LA_7K01/..
+
